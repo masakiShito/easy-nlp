@@ -1,0 +1,13 @@
+README.md
+setup.py
+easy_nlp.egg-info/PKG-INFO
+easy_nlp.egg-info/SOURCES.txt
+easy_nlp.egg-info/dependency_links.txt
+easy_nlp.egg-info/requires.txt
+easy_nlp.egg-info/top_level.txt
+easynlp/__init__.py
+easynlp/preprocessing.py
+easynlp/sentiment_analysis.py
+easynlp/summarization.py
+easynlp/text_generation.py
+easynlp/translation.py
